@@ -194,7 +194,7 @@ Azure Database Migration Service reads the source backup from an Azure Storage b
 
 1. Enter the following **Temporary password (1)**, and then click on **Sign in (2)**.
 
-   - **Temp Access Pass:** <inject key="AzureAdUserPassword"></inject>
+   - **Temporary Access Pass:** <inject key="AzureAdUserPassword"></inject>
 
    ![](img/Gettingstarted/img7.png)
 

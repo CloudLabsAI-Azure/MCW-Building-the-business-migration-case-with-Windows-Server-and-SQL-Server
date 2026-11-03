@@ -127,7 +127,7 @@ Use the **slider (three vertical dots)** located between the Virtual Machine and
 
 1. Enter the following **Temporary password (1)**, and then click on **Sign in (2)**.
 
-   - **Temp Access Pass:** <inject key="AzureAdUserPassword"></inject>
+   - **Temporary Access Pass:** <inject key="AzureAdUserPassword"></inject>
 
    ![](img/Gettingstarted/img7.png)
 
