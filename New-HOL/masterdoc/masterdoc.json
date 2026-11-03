@@ -2,26 +2,26 @@
   {
     "Name": "Building the business migration case with Windows server and SQL server",
     "Language": "English",
-    "BaseURL": "https://github.com/CloudLabs-MCW/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server",
+    "BaseURL": "https://github.com/CloudLabsAI-Azure/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server",
     "Files": [
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MCW/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server/refs/heads/Stage/New-HOL/Getting-started.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server/refs/heads/Stage/New-HOL/Getting-started.md",
         "Order": 1
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MCW/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server/refs/heads/Stage/New-HOL/01-SQL-database-migration.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server/refs/heads/Stage/New-HOL/01-SQL-database-migration.md",
         "Order": 2
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MCW/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server/refs/heads/Stage/New-HOL/02-Create-VM-to-migrate-web-application.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server/refs/heads/Stage/New-HOL/02-Create-VM-to-migrate-web-application.md",
         "Order": 3
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MCW/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server/refs/heads/Stage/New-HOL/03-Azure-Arc-enable-on-premises-VM.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server/refs/heads/Stage/New-HOL/03-Azure-Arc-enable-on-premises-VM.md",
         "Order": 4
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-MCW/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server/refs/heads/Stage/New-HOL/05-Protect-the-SQL-Server-VM-with-Azure-Backup.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server/refs/heads/Stage/New-HOL/05-Protect-the-SQL-Server-VM-with-Azure-Backup.md",
         "Order": 5
       }
     ]
